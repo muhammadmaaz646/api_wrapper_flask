@@ -1,0 +1,5 @@
+flask
+flask-limiter
+google-genai
+httpx
+pydantic
